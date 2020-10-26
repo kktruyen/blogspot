@@ -20,6 +20,7 @@
   }, {
     "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s144-c/logo.png",
     "sizes": "144x144",
-    "type": "image/png"
+    "type": "image/png",
+    "purpose": "any maskable"
   }]
 }
