@@ -1,0 +1,24 @@
+{
+  "name": "KK Truyện",
+  "short_name": "KKTruyen",
+  "description": "Download ebook truyện prc và epub mới nhất.",
+  "display": "standalone",
+  "scope": "/app/",
+  "icons": [{
+    "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s96-c/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s144-c/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
