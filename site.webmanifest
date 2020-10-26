@@ -3,6 +3,7 @@
   "short_name": "KKTruyen",
   "description": "Download ebook truyện prc và epub mới nhất.",
   "display": "standalone",
+  "start_url": "/?m=1",
   "scope": "/app/",
   "icons": [{
     "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s48/logo.png",
