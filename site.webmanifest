@@ -3,7 +3,7 @@
   "short_name": "KK Truyện",
   "description": "Download ebook truyện prc và epub mới nhất.",
   "display": "standalone",
-  "start_url": "/?m=1",
+  "start_url": "/p/tong-hop-ebook-truyen-prc-full.html?m=1",
   "scope": "/?m=1",
   "icons": [{
     "src": "https://lh6.googleusercontent.com/-Cqw6oGScSSE/UfKG0iVA4ZI/AAAAAAAACk8/ijTqBb9cVr4/s48/logo.png",
